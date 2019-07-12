@@ -1,0 +1,20 @@
+.f,.d,.g{
+    height: 200px;
+    width: 50px;
+}
+.f{
+    background: blue;
+}
+.d{
+    background: black;
+}
+.g{
+    background: blue;
+}
+.container{
+    background: gold;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+}

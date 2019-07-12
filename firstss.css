@@ -1,0 +1,85 @@
+.header{
+    height: 110px;
+    border-bottom: 3px solid white;
+}
+.eader1{
+    height: 50px;
+    background: red;
+}
+.eader2{
+    height: 60px;
+    background: orangered;
+    padding-right: 20px;
+}
+.frst1,.frst2,.frst3,.frst4{
+    height: 500px;
+}
+.footer{
+    background: red;
+    height: 100px;
+    border-top: 5px solid white;
+}
+.frst2{
+    width: 40%;
+    float: left;
+}
+.frst3{
+    width: 30%;
+    float: left;
+}
+.frst4{
+    width: 30%;
+    float: left;
+}
+.f31{
+    clear: both;
+    background: gold;
+    height: 150px;
+    padding-right: 10px;
+}
+.f32{
+    background: snow;
+    height: 300px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.f41{
+    background: snow;
+    height: 300px;
+}
+.f42{
+    background: gold;
+    height: 200px;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.f21,.f22{
+    height: 166px;
+}
+.f23{
+    background: snow;
+    height: 168px;
+    font-size: 22px;
+}
+.f22{
+    background: snow;
+}
+.h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    font-family: "Bell MT";
+    text-shadow: 3px 3px black;
+}
+.f311{
+    padding-left: 200px ;
+    padding-top: 125px;
+    font-size: 20px;
+}
+.lab1{
+    padding-left: 950px;
+}
+.for11{
+    padding-top: 5px;
+}

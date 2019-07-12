@@ -1,0 +1,21 @@
+.jp{
+    background: red;
+    height: 100px;
+}
+.lef,.rig{
+    height: 150px;
+    width: 30%;
+}
+.lef{
+    background: gold;
+    float: left;
+}
+.rig{
+    background: aqua;
+    float: right;
+}
+.foot{
+    height: 100px;
+    background: blue;
+    clear: right;
+}

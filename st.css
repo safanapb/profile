@@ -1,0 +1,61 @@
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+    text-transform: uppercase;
+    text-shadow: 5px 2px black;
+}
+.bg{
+    color: blue;
+    text-indent: 100px;
+    font-family: "Arial Narrow";
+    font-style: italic;
+}
+a{
+text-decoration: none;
+}
+a:link{
+    color: red;
+}
+a:visited{
+    color: green;
+}
+a:active{
+    color: yellow;
+}
+a:hover{
+    color: aqua;
+}
+.list{
+    list-style-type: square;
+}
+.list2{
+    list-style-position: inside;
+}
+.ji {
+    color: red;
+    font-size: 100px;
+    background: gold;
+    margin-left: 100px;
+    padding-left: 400px;
+    padding-bottom: 10px;
+    border: 5px solid black;
+    outline: 5px solid red;
+    text-shadow: 3px 3px black;
+    display: none;
+}
+.frst2{
+    background: aqua;
+    width: 30%;
+    float: left;
+}
+.frst3{
+    background: gold;
+    width: 30%;
+    float: left;
+}
+.frst4{
+    background: greenyellow;
+    width: 30%;
+    float: left;
+}
